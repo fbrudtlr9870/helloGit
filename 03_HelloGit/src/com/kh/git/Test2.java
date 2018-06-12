@@ -7,7 +7,11 @@ public class Test2 {
 		System.out.println("test1브탠치 시작!!");
 		System.out.println("test1브탠치 끝!!");
 		
+
 		System.out.println("master에서 작성함!!");
+
+		System.out.println("test1브랜치에서 작성함!!");
+
 	}
 
 }
